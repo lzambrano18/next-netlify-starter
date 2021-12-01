@@ -7,6 +7,6 @@
   
 [[redirects]]
   from = "/data/*"
-  to = "https://staging.newstand.com/:splat"
+  to = "https://staging.newstand.com/data/:splat"
   status = 200
   force = true
